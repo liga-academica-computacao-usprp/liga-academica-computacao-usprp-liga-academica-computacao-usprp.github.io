@@ -1,0 +1,16 @@
+baseURL = "localhost"
+languageCode = "pt-br"
+title = "LAC - Liga Acadêmica da Computação"
+theme = "hello-friend-ng"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
