@@ -1,3 +1,37 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "localhost"
+languageCode = "pt-br"
+title = "LAC - Liga Acadêmica da Computação"
+theme = "hello-friend-ng"
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Tornando o conhecimento aberto"
+
+  # Set disableReadOtherPosts to true when you don't want to see the "Other posts" section
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons
+  enableSharingButtons = true
+
+  # Metadata
+  description = "Website da Liga Acadêmica da Computação"
+  keywords = "homepage, blog"
+  images = [""]
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
