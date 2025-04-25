@@ -33,7 +33,7 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2  # Updated from v1 to v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
