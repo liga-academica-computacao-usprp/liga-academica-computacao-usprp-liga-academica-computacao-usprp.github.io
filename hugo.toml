@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://liga-academica-computacao-usprp.github.io/"
 languageCode = "pt-br"
 title = "LAC - Liga Acadêmica da Computação"
 theme = "hello-friend-ng"
