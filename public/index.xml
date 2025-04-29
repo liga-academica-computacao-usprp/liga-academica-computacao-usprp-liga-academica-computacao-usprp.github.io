@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LAC - Liga Acadêmica da Computação</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on LAC - Liga Acadêmica da Computação</description>
+    <title>Hello Friend NG</title>
+    <link>https://liga-academica-computacao-usprp.github.io/</link>
+    <description>Recent content on Hello Friend NG</description>
     <generator>Hugo</generator>
-    <language>pt-br</language>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 25 Apr 2025 15:36:37 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liga-academica-computacao-usprp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
+      <link>https://liga-academica-computacao-usprp.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 25 Apr 2025 15:36:37 -0300</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <guid>https://liga-academica-computacao-usprp.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is my first blog post using Hugo with the hello-friend-ng theme!&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>https://liga-academica-computacao-usprp.github.io/about/</link>
       <pubDate>Fri, 25 Apr 2025 14:45:36 -0300</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>https://liga-academica-computacao-usprp.github.io/about/</guid>
       <description>&lt;p&gt;This is the about page. Here you can write about yourself or your project.&lt;/p&gt;</description>
     </item>
   </channel>
