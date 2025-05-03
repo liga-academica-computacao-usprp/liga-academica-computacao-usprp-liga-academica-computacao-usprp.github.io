@@ -1,0 +1,20 @@
+/* You can add custom styles here. */
+
+:root {
+    --gray-100: #714fdb;
+    --gray-200: #826ce6;
+    --gray-500: #c1bcf6;
+    
+    --color-link: #c1bcf6;
+    --color-visited-link: #714fdb;
+    
+    --body-background: #27272a;
+    --body-font-color: #f4f4f5;
+    
+    --icon-filter: brightness(0) invert(1);
+    
+    --hint-color-info: #6bf;
+    --hint-color-warning: #fd6;
+    --hint-color-danger: #f66;
+}
+// @import "plugins/numbered";
