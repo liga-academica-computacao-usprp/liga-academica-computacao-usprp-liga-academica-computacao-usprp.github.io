@@ -35,9 +35,7 @@ para saber mais).
 
 Cada grupo de estudo da LAC deve realizar reuniões periódicas para desevolver suas atividades. 
 As datas desses encontros ficam a critério dos membros de cada grupo. O local também fica a 
-critério do grupo, mas é racomendado que seja online e de preferência no discord da liga 
-<link_do_dicord>. Isso facilita a comunicação e participação dos membros fora da USP de Ribeirão 
-Preto.
+critério do grupo, mas é racomendado que seja online e de preferência no [discord](https://discord.gg/EWNH3Sttwk) da liga. Isso facilita a comunicação e participação dos membros fora da USP de Ribeirão Preto.
 
 Os grupos de estudo devem registrar no site da LAC os materiais utilizados, as aulas realizadas 
 e a metodologia empregada em cada reunião. Isso inclui descrever os recursos didáticos, as
@@ -49,7 +47,7 @@ publicação")
 ### Criar um grupo de estudos
 
 Para criar um grupo de estudos, é necessário iniciar uma discussão de categoria "Ideia" na área 
-de discussões<link> do GitHub da liga com a seguinte formatação:
+de [discussões](https://github.com/orgs/liga-academica-computacao-usprp/discussions) do GitHub da liga com a seguinte formatação:
 
 - Título: nome completo do grupo - abreviação (caso tenha)
 - Corpo de texto (breve descrição): identificar a área de estudo e desenvolver um pouco dos seus objetivos
