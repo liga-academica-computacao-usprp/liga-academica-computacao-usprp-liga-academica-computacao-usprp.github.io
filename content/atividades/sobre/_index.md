@@ -52,11 +52,13 @@ Para criar um grupo de estudos, é necessário iniciar uma discussão de categor
 de discussões<link> do GitHub da liga com a seguinte formatação:
 
 - Título: nome completo do grupo - abreviação (caso tenha)
-- Corpo de texto: identificar a área de estudo e desenvolver um pouco dos seus objetivos
+- Corpo de texto (breve descrição): identificar a área de estudo e desenvolver um pouco dos seus objetivos
+- Justificativa: justificar porque esse grupo de estudos agrega a Liga
+- Interessados: Nome ou maracação do GitHub das pessoas naquele momento interessadas em participar dessa liga
 
 <Parte de aprovação que eu não sei muito bem como funciona>
 
-
 ### Formato de publicação
+
 
 
