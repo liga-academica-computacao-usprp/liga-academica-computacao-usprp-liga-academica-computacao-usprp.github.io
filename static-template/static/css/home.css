@@ -1,0 +1,62 @@
+/* Title */
+#title {
+    padding-bottom: 3.8em;
+}
+
+@media (min-width: 768px) {
+    #title h1 {
+        font-size: 2.8em;
+    }
+
+    #title h2 {
+        font-size: 2.2em;
+    }
+}
+
+@media (min-width: 992px) {
+    #title h2 {
+        font-size: 2.5em;
+    }
+}
+
+@media (min-width: 1200px) {
+    #title h1 {
+        font-size: 3.5em;
+    }
+}
+
+#fi-lac {
+    height: 90%;
+    background-image: url(../img/logo-lac-reverse.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    min-height: 400px;
+}
+
+@media (max-width: 992px) {
+    #title {
+        text-align: center;
+    }
+    
+    #fi-lac {
+        display: none;
+    }
+}
+/* END Title */
+
+/* Content */
+.logo-grupo {
+    text-align: center;
+}
+
+.logo-grupo img {
+    width: 200px;
+}
+
+@media (min-width: 992px) {
+    .logo-grupo img {
+        width: 280px;
+    }
+}
+/* END Content */
