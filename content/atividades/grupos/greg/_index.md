@@ -14,7 +14,7 @@ Nós somos os AGrEGados, e o GrEG é ~uma seita~ um grupo focado em estudar o de
 Aqui no GrEG nós buscamos um misto de prática e teoria ~e rituais obscuros~, focando em ensinamentos agnósticos que possam informar, guiar, ~doutrinar~ e ajudar independente de sua engine de preferência. Ainda assim, haverão conteúdos específicos para determinadas engines (como Godot 4 e Unity) quando possível, a fim de permitir que nossos ~cultistas~ membros se aprofundem em algumas das diversas engines disponíveis. Esses estudos são realizados em módulos, separados por ~rituais~ eventos práticos, como Game Jams, a fim de que todos possam ~realizar sacrifícios~ exercitar os conhecimentos desenvolvidos.
 
 *Exemplo de fluxo de estudos*:
-![Exemplo de Fluxo de Estudos](images/greg_progression_ex.png)
+![Exemplo de Fluxo de Estudos](../../../resources/greg/greg_progression_ex.png)
 
 ## Onde e Quando Somos
 Nós realizamos ~nossos sacrifícios ritualísicos~ nossas AGrEGações Naquele Lugar, Naquele Horário, todos Aqueles Dias.
