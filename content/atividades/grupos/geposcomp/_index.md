@@ -1,5 +1,5 @@
 +++
-date = '2025-05-15T16:08:31-50:00'
+date = 2025-05-15T16:08:31-03:00
 draft = false
 title = 'geposcomp'
 +++
